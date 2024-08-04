@@ -38,6 +38,8 @@ Excited to expand my horizons with:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthRatra&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthRatra&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ParthRatra&icon=5&color=11)](https://visitcount.itsvg.in)
 
